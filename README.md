@@ -6,10 +6,10 @@ A responsive, SEO-friendly blog website template designed for small businesses. 
 
 ## Quick Links
 
-- Live Demo: `https://Gagan-Mand.github.io/seo-blog-template/`
+- Live Demo: ![HTML](https://Gagan-Mand.github.io/seo-blog-template/)
 - GitHub Repo: `https://github.com/Gagan-Mand/seo-blog-template`
 
-Push the repo to GitHub and enable GitHub Pages to make the live demo URL work.
+You can use live demo URL to test out the demo blog.
 
 ---
 
