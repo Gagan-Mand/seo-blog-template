@@ -1,0 +1,3 @@
+/* This directory uses CSS-based placeholders instead of image files. */
+/* Card thumbnails are styled with gradients and emoji icons in style.css. */
+/* To add real images, place them here and update the HTML accordingly. */
